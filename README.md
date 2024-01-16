@@ -4,7 +4,7 @@
 - 💞️ Full time love with my LAptop
 - 📫 abhishekpradhan93371@gmail.com      
 - 😄 Trying to learm
-- ⚡ Fun fact: ...
+
 
 <!---
 AbhishekJrC/AbhishekJrC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
